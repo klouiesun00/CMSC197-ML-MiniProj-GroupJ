@@ -1,6 +1,8 @@
 # CMSC197-ML-MiniProj-GroupJ
 This repository contains the mini-project submission of Group J for CMSC 197 Machine Learning.
 
+The zip file is the LaTex template of the project report containing all the figures used.
+
 
 This project aimed to predict some aspects of the coronavirus pandemic in the Philippines by using data available from the Deprtment of Health. 
 
